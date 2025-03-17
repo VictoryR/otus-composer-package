@@ -1,0 +1,6 @@
+#Project files
+/vendor/
+composer.lock
+
+#PhpStrom files
+.idea
